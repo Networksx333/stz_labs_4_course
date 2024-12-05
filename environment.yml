@@ -1,4 +1,4 @@
-name: xeus-cling-binder-env
+name: stz_labs_4_course
 
 channels:
   - QuantStack

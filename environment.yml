@@ -6,5 +6,6 @@ channels:
 
 dependencies:
   - cling
+  - opencv
   - xeus-cling
   - notebook
